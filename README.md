@@ -5,7 +5,7 @@
 - 🔭 Actually I'm Electrical Engineer Student in USP - University of São Paulo
 
 - 👀 I’m interested in Python, JS, C#, HTML, CSS, DJANGO, NODE
-- 
+
 - 🌱 I’m currently learning JS, WebScraping 
 
 - 💬 Ask me about **Python, JavaScript**
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-<a href="linkedin.com/in/andre-marcucci-maciel-04a0a2207" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/andre-marcucci-maciel-04a0a2207/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://www.fb.com/andremarcucci.maciel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="andremarcucci" height="20" width="20" /></a>
 <a href="https://www.instagram.com/andre.marcucci/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="andremarcucci" height="20" width="20" /></a>
 </p>
