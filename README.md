@@ -2,7 +2,7 @@
 <h3 align="center">A Backend Developer focused on learning things that can be applied in Engineering </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Andremarcucci98" alt="Andremarcucci98" /> </p>
 
-- 🔭 Actually I'm Electrical Engineer Student in USP - University of São Paulo
+- 🔭 Currently I'm Electrical Engineer Student in USP - University of São Paulo
 
 - 👀 I’m interested in Python, JS, C#, HTML, CSS, DJANGO, NODE
 
