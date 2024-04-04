@@ -4,11 +4,7 @@
 
 - 🔭 Currently I'm Electrical Engineer Student in USP - University of São Paulo
 
-- 👀 I’m interested in Python, JS, C#, HTML, CSS, DJANGO, NODE
-
-- 🌱 I’m currently learning JS, WebScraping 
-
-- 💬 Ask me about **Python, JavaScript**
+- 👀 I’m interested in Python, C#, HTML, CSS, SQL, Business intelligence
 
 - 📫 How to reach me **marcuccimaciel.andre@gmail.com**
 
